@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/omarZaoujal99/List-Manager.git/static/js/main.bf779cca.chunk.js",
-    "main.js.map": "/omarZaoujal99/List-Manager.git/static/js/main.bf779cca.chunk.js.map",
-    "runtime-main.js": "/omarZaoujal99/List-Manager.git/static/js/runtime-main.927d92b0.js",
-    "runtime-main.js.map": "/omarZaoujal99/List-Manager.git/static/js/runtime-main.927d92b0.js.map",
-    "static/js/2.36305dde.chunk.js": "/omarZaoujal99/List-Manager.git/static/js/2.36305dde.chunk.js",
-    "static/js/2.36305dde.chunk.js.map": "/omarZaoujal99/List-Manager.git/static/js/2.36305dde.chunk.js.map",
-    "index.html": "/omarZaoujal99/List-Manager.git/index.html",
-    "static/js/2.36305dde.chunk.js.LICENSE.txt": "/omarZaoujal99/List-Manager.git/static/js/2.36305dde.chunk.js.LICENSE.txt"
+    "main.js": "/List-Manager/static/js/main.bf779cca.chunk.js",
+    "main.js.map": "/List-Manager/static/js/main.bf779cca.chunk.js.map",
+    "runtime-main.js": "/List-Manager/static/js/runtime-main.66b42bd8.js",
+    "runtime-main.js.map": "/List-Manager/static/js/runtime-main.66b42bd8.js.map",
+    "static/js/2.36305dde.chunk.js": "/List-Manager/static/js/2.36305dde.chunk.js",
+    "static/js/2.36305dde.chunk.js.map": "/List-Manager/static/js/2.36305dde.chunk.js.map",
+    "index.html": "/List-Manager/index.html",
+    "static/js/2.36305dde.chunk.js.LICENSE.txt": "/List-Manager/static/js/2.36305dde.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.927d92b0.js",
+    "static/js/runtime-main.66b42bd8.js",
     "static/js/2.36305dde.chunk.js",
     "static/js/main.bf779cca.chunk.js"
   ]
